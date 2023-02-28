@@ -10,4 +10,6 @@ Projeto refeito por mim, para treinar meu javascript e meu css.
 
 - Um loading feito com css e implementado com javascript para acompanhar o programa.
 
+- <a href="https://ryansoares7.github.io/buscador-de-clima/" target="_blank">Clique aqui para ver o site</a>
+
 Espero que gostem :)
